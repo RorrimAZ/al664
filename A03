@@ -1,0 +1,52 @@
+# al664
+# Assignment3
+
+How to use Webstorm and GitHub.
+
+References: GitHub and Professors powerpoints and in class demonstration.
+
+For the proper use of Webstorm and Github you must log into both of the accounts. Once in, go to Webstorm and create a new project. Once inside the project go to VCS , and then into version control and create a Git repository. It will ask you for a few steps and then it will link it to the GitHub account you had made. 
+
+On GitHub, to make new a new repository, on the left side of the home page, there is a green button to create the repository, then at the bottom, add the README.md to it so that you can type in the file and edit.
+
+Alejandro Lijo
+
+Definitions:
+
+GIT
+It is an open source program for tracking changes in text files. This is what GitHub uses as its technology.
+
+GITHUB
+Where we have all of our repositories and allows us to link those repositories and make them live.
+
+Repository
+This is the most basic element of GitHub and contains all of the project files. It also stres each file's revision history.
+
+Clone
+This is a copy of a repository that lives on your computer instead of on a website's server.
+
+Commit
+This is an individual change to a file.
+
+Push
+Sending the commited changes to a remote repository.
+
+Pull
+Fetching the "in" changes and merging them. 
+
+Branch
+A branch is a parallel version of a repository. It is within the repository but does not affect the master branch, which means it does not disrupt the live version.
+
+Merge
+Merging takes changes from one branch and applies those changes into another. It normally happens as a pull request.
+
+Merge Conflict
+Conflicts between merging two seperate branches.
+
+Fetch
+Refers to getting the latest changes from the online repository without merging.
+
+Remote
+This is a version of something that is hosted on a server. Can be connected to local clones so that changes can be synced.
+
+
